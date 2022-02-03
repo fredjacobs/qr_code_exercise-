@@ -1,0 +1,31 @@
+body {
+  background-color: lightblue;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  height: 600px;
+  align-items: center;
+}
+
+#code-container {
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+#qr_image {
+  border-radius: 10px;
+}
+
+.scan_text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  color: rgb(118, 118, 118);
+}
+.scan-heading {
+  font-family: "Quicksand", sans-serif;
+}
